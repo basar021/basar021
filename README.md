@@ -1,5 +1,5 @@
 
-![I am basar021](https://github.com/basar021/basar021/blob/main/github_cover.png)
+![I am basar021](https://github.com/basar021/basar021/blob/main/github_banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Md Abu Basar</h1>
