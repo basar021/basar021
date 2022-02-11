@@ -7,7 +7,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/basar021) 
 
-Welcome to my GitHub profile. I'm a professional Web Designer. I work with ☛ HTML 5 ☛ CSS3 ☛ jQuery ☛ Bootstrap 5 ☛ Javascript (latest version) etc. I design any kind of website (Business, E-Commerce, etc) with the highest quality. I try my best to make sure 100% client satisfaction.
+Welcome to my GitHub profile. I’m a Front End Web Developer & Designer. I love to code and learn new things. My main target is to work according to my client's demand and high-quality support after the sell service. I design any kind of website (WordPress, E-Commerce, WooCommerce, Shopify, Portfolio etc) with high-quality. I try my best to make sure 100% client satisfaction.
 
 ## 👨‍💻 Skills & Experiance: 
 
