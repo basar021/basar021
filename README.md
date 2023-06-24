@@ -24,16 +24,15 @@ Welcome to my GitHub profile. I’m a Front End Web Developer & Designer. I love
 
 - 🔭 I’m currently working on [Fiverr]
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/basar021](https://github.com/basar021) ans [https://mrwebcoder.com/portfolio/](https://mrwebcoder.com/portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/basar021](https://github.com/basar021) and [https://mrwebcoder.com/portfolio/](https://mrwebcoder.com/portfolio/)
 
 - 💬 Ask me about **HTML5, CSS3, Bootstrap**
 
 - 👯 I’m looking to collaborate on github
 
-- 📫 How to reach me **mrwebcoder.me@gmail.com
-**
+- 📫 How to reach me **mrwebcoder.me@gmail.com**
 
 
 ## 🔗 Connect with me!
